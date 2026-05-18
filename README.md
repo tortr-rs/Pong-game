@@ -1,6 +1,56 @@
+ # THIS PROJECT IS CERTIFIED BY THE CHAMESLE PROJECT https://chalesme.org/ 
+Chamesle Certification v1.0
+Copyright (C) 2026 Chamesle contributors
+
+This certification is granted to projects that are fully open source,
+non-profit in purpose, and community-driven in operation.
+
+Certification Requirements:
+1. Full source code is publicly available.
+2. Project governance is transparent and community accessible.
+3. No proprietary-only core component is required for normal use.
+4. Attribution and notice text are preserved in distributed versions.
+5. Public contribution pathways are available (issues, docs, patches).
+
+Certification Revocation:
+Certification may be revoked if the project no longer meets these
+requirements, including closure of source, removal of community process,
+or conversion to a profit-first restricted model.
+
+Scope Notice:
+This certification is a Chamesle project policy statement and does not
+replace legal advice.
+
+Identifier: Chamesle-Certification-1.0
+
+
+
+
+
+
 # INSTALLATION
 Install the dependencies. Which is just RayLib. You should install the raylib-devel.
 https://www.raylib.com/ for help.
+# LICENSE 
+Chamesle License v1.0
+Copyright (C) 2026 Chamesle contributors
+
+This project is open and community-first. You are allowed to use, study,
+copy, modify, and share this software.
+
+If you distribute this project or a modified version:
+1. Keep this license text included.
+2. Clearly state what you changed.
+3. Keep the distributed version open with the same license terms.
+4. Keep contributor and copyright notices intact.
+
+This license is inspired by strong copyleft principles, but written for
+the Chamesle project in its own wording.
+
+NO WARRANTY
+This software is provided "as is", without warranty of any kind,
+express or implied, including merchantability or fitness for a particular
+purpose. You use it at your own risk.
 
 # SHITDOWS INSTALL
  Note if you are a windows user:
